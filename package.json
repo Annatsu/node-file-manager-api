@@ -1,0 +1,32 @@
+{
+  "name": "node-file-manager-api",
+  "version": "0.0.1",
+  "description": "A web file manager made with Node.js & React.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annatsu/node-file-manager-api.git"
+  },
+  "keywords": [
+    "file-manager",
+    "api",
+    "restful"
+  ],
+  "author": {
+    "name": "Brendon Pagano",
+    "email": "brendonpagano@gmail.com",
+    "url": "https://brendonpagano.com"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Annatsu/node-file-manager-api/issues"
+  },
+  "homepage": "https://github.com/Annatsu/node-file-manager-api#readme",
+  "dependencies": {
+    "fastify": "^2.1.0"
+  }
+}
